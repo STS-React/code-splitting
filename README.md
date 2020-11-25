@@ -1,1 +1,1 @@
-![Alt text](/img/bundle analyzer.PNG?raw=true "Optional Title")
+![Alt text](./img/bundle analyzer.PNG?raw=true "Optional Title")
