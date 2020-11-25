@@ -16,4 +16,3 @@ GENERATE_SOURCEMAP=false
 ## Enable serving compressed
 ![](https://github.com/STS-React/hieu-code-splitting/blob/main/img/cloudfront%201.PNG?raw=true)
 ![](https://github.com/STS-React/hieu-code-splitting/blob/main/img/cloundfront%202.PNG?raw=true)
-TTL > 0
